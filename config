@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = SkateMonke
+	email = bartlomiej.gosciniak7@gmail.com
+[gui]
+	wmstate = normal
+	geometry = 1109x558+462+88 216 255
